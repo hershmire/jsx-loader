@@ -4,7 +4,7 @@
   "description": "JSX loader for webpack",
   "main": "index.js",
   "dependencies": {
-    "react-tools": "git@github.com:hershmire/react-tools.git",
+    "react-tools": "git+ssh://git@github.com:hershmire/react-tools.git",
     "loader-utils": "^0.2.2"
   },
   "scripts": {
